@@ -21,9 +21,9 @@
 > 
 > screen -S massa
 > 
-> wget https://github.com/massalabs/massa/releases/download/MAIN.2.2/massa_MAIN.2.2_release_linux.tar.gz
+> wget https://github.com/massalabs/massa/releases/download/MAIN.2.3/massa_MAIN.2.3_release_linux.tar.gz
 > 
-> tar xvf massa_MAIN.2.2_release_linux.tar.gz
+> tar xvf massa_MAIN.2.3_release_linux.tar.gz
 > 
 > sudo apt install pkg-config curl git build-essential libssl-dev libclang-dev cmake
 > 
