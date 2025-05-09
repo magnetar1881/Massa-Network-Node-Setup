@@ -21,11 +21,11 @@
 > 
 > screen -S massa
 ```yaml
-wget https://github.com/massalabs/massa/releases/download/MAIN.2.5/massa_MAIN.2.5_release_linux.tar.gz
+wget https://github.com/massalabs/massa/releases/download/MAIN.2.4/massa_MAIN.2.4_release_linux.tar.gz
 ```
 >
  ```yaml
-tar xvf massa_MAIN.2.5_release_linux.tar.gz
+tar xvf massa_MAIN.2.4_release_linux.tar.gz
 ```
 > sudo apt install pkg-config curl git build-essential libssl-dev libclang-dev cmake
 > 
