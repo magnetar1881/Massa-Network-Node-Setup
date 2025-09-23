@@ -69,5 +69,4 @@ control x daha sonra y basıp enter diyoruz
 
 > node_start_staking your_address
 
-> get_addresses your_address
 
