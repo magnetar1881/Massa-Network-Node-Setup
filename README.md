@@ -1,6 +1,6 @@
 # Massa-Network-Node-Setup.
 
-# Gereksinimler
+# Gereksinimler.
 8 cores, 16 GB RAM, 1TB disk
 
 # Kurulum
