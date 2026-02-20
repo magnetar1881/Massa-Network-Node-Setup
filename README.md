@@ -38,7 +38,7 @@ tar xvf massa_MAIN.2.5_release_linux.tar.gz
  [protocol]
  routable_ip = "ip adresinizi yazacaksınız buraya"
 ```
-control x daha sonra y basıp enter diyoruz
+control x daha sonra y basıp enter diyoruz.
 
 > cd massa/massa-node/
 > 
