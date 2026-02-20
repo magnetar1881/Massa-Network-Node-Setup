@@ -1,6 +1,6 @@
 # Massa-Network-Node-Setup...
 
-# Gereksinimler.(çok düşük sunucularda da çalışır)
+# Gereksinimler.(çok düşük sunucularda da çalışır.)
 8 cores, 16 GB RAM, 1TB disk fazlasıyla yeterli
 
 # Kurulum
